@@ -7,6 +7,7 @@ from time import sleep
 import datetime
 import sys
 
+# Headless mode
 
 from selenium.webdriver.chrome.options import Options
 
